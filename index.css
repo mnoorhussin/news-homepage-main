@@ -249,5 +249,8 @@ footer {
   text-align: center;
 }
 .attribution a {
+  text-decoration: underline;
+}
+.attribution a {
   color: hsl(228, 45%, 44%);
 }
